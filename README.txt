@@ -9,4 +9,4 @@ index.html        - Main HTML page to open the template in browser.
 
 ------------------------
 
-Check out my [profile page here](https://dakie2305.github.io/)
+Check out my [profile page here](https://dakie2305.github.io/) !
